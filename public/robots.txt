@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://mrtraders.in/sitemap.xml
